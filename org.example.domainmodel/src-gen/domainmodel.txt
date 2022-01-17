@@ -1,0 +1,1 @@
+Domainmodel : interface org.example.domainmodel.Entity
